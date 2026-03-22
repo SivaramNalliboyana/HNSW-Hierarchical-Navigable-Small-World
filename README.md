@@ -1,2 +1,2 @@
-Implementation of the Hierarchical Navigable Small World Graph Algorithm
+Implementation of the Hierarchical Navigable Small World Graph Algorithm  
 Research paper: https://www.researchgate.net/publication/301837503_Efficient_and_Robust_Approximate_Nearest_Neighbor_Search_Using_Hierarchical_Navigable_Small_World_Graphs
